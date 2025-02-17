@@ -2,7 +2,7 @@
 // @name         SOOP 방송 알림
 // @namespace    http://tampermonkey.net/
 // @version      153
-// @description  사용자가 등록한 아프리카TV 스트리머의 방송 상태를 확인하여 알림을 제공합니다. 추가 기능 포함.
+// @description  사용자가 등록한 아프리카TV 스트리머의 방송 상태를 확인하여 알림을 제공합니다.
 // @author       che_dd_hyuji
 // @match        *://play.sooplive.co.kr/*
 // @match        *://www.sooplive.co.kr/*
